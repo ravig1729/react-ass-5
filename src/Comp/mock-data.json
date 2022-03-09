@@ -1,0 +1,31 @@
+
+[
+    {
+      "id": 1,
+      "name": "Jenny",
+      "age": "23",
+      "course": "Zenith",
+      "batch": "Nov"
+    },
+    {
+      "id": 2,
+      "name": "Viswa",
+      "age": "23",
+      "course": "MERN",
+      "batch": "Nov"
+    },
+    {
+      "id": 3,
+      "name": "Johns",
+      "age": "25",
+      "course": "MERN",
+      "batch": "OCT"
+    },
+    {
+      "id": 4,
+      "name": "Jack",
+      "age": "23",
+      "course": "Zenith",
+      "batch": "Dec"
+    }
+  ]

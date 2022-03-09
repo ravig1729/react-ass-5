@@ -1,0 +1,107 @@
+.header{
+    background-color: rgb(177, 205, 214);
+    width: 100%;
+    height: 60px;
+    display:flex;
+    justify-content: space-evenly;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: xx-large;
+  }
+  
+  .heading{
+    margin-top: 15px;
+    text-shadow: 10px 10px 20px black;
+  }
+
+  
+  .studentButton {
+    margin-top: -100px;
+    color: rgb(199, 155, 155);
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 900;
+  }
+
+  .card-body{
+    text-align: center;
+    font-size: large;
+    color:crimson;
+  }
+  
+  form{
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: 400px;
+    margin-top: 50px;
+    text-align: center;
+    line-height: 70px;
+    font-size: 30px;
+    border-radius: 0.8rem;
+    box-shadow: 10px 10px 100px rgb(146, 189, 124);
+  }
+  
+  input{
+    margin-left:0px;
+    width:150px;
+    height: 30px;
+    border-top: 0ch;
+    border-left: 0ch;
+    border-right: 0ch;
+    border-radius: 0.8rem;
+    text-align: center;
+  }
+  
+  button {
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 150px;
+    height: 50px;
+    border-radius: 0.8rem;
+    border-style: none;
+    align-self: center;
+    background-color: rgb(185, 197, 117);
+  }
+  
+  button:hover{
+    background-color: rgb(218, 158, 134);
+  }
+
+  .app-container {
+    display: flex;
+    flex-direction:column;
+    gap: 10px;
+    padding: 1rem;
+    position:absolute;
+    top:30px;
+    right:300px;
+  }
+
+  .addform{
+    position:absolute;
+    top:50px;
+    right:600px;
+    margin-right:150px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th,
+  td {
+    border: 1px solid #ffffff;
+    padding: 8px;
+    font-size: 32px;
+  }
+  
+  th {
+    background-color: rgb(117, 201, 250);
+  }
+  
+  td {
+    background-color: rgb(205, 235, 253);
+  }
